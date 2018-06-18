@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/src/firebaseConfig.js
 
 # testing
 /coverage
